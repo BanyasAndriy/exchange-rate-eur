@@ -7,4 +7,6 @@ public class Rate {
     private long timestamp;
     private String date;
     private SingleRate rates;
+
+
 }
